@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs & data
+monitor_error.log
+ds_monitor_config.json
+ds_monitor_history.json
+
+# matplotlib
+matplotlib_cache/
+
+# OS
+Thumbs.db
+Desktop.ini
