@@ -1,7 +1,7 @@
 ﻿# DeepSeek Token Monitor ⚡ | DeepSeek Token 监控面板
-
+## ✨ 版本：v1.1
 > Real-time DeepSeek API token consumption & balance monitor with a cyberpunk-themed desktop dashboard.
-> 实时监控 DeepSeek API Token 消耗与余额的桌面面板，实时监控你的token与余额 妈妈再也不用担心你的余额烧光光啦！！！
+> 实时监控 DeepSeek API Token 消耗与余额的桌面面板，实时监控你的token与余额 妈妈再也不用担心你的余额烧光光啦！！！☝️🤓
 
 ---
 
